@@ -4,12 +4,12 @@
 
 This website provide support to ALF Studio's projects, such as the latest DC60 which is in the production process. 
 
-<br><br>
+<br>
 
 ### Firmware Guides
 #### DC60 --> [DC60 QMK Firmware](/doc/dc60_firmware.md)
 
-<br><br>
+<br>
 
 
 
@@ -21,7 +21,7 @@ This website provide support to ALF Studio's projects, such as the latest DC60 w
 #### ALF X1 --> [X1 Gallery](/doc/x1_gallery.md)
 * X1 is a beautiful TKL-sized customized keyboard designed by Master-Dash. 
 
-<br><br>
+<br>
 
 
 ### About ALF Studio
