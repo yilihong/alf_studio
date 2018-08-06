@@ -18,7 +18,7 @@ DC60 is a beautiful 60% customized keyboard designed by Master-Dash and reputabl
 
 <img src=/img/DC60-nomods.jpeg width="300">
 
-[DC60]()
+![DC60](/img/DC60-nomods.jpeg)
 
 ```markdown
 Syntax highlighted code block
