@@ -6,7 +6,7 @@ This website provide support to ALF Studio's projects, such as the latest DC60 w
 
  
 
-You can use the [editor on GitHub](https://github.com/yilihong/alf_studio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [Firmware Guide](/Firmware_Guide_DC60.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
