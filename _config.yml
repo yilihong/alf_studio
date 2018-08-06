@@ -1,1 +1,6 @@
+title: ALF Studio Website
+logo: /img/logo.png
+description: ALF Studio
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-modernist
