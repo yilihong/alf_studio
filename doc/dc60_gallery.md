@@ -8,3 +8,5 @@
 
 ### Gray DC60 with XDA Canvas
 ![GrayDC60](/img/GrayDC60.jpeg)
+
+[*Return to Main Page*](http://alfstudio.club)
