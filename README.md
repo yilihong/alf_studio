@@ -23,6 +23,11 @@ This website provide support to ALF Studio's projects, such as the latest DC60 w
 
 <br>
 
+### Projects in Progress
+
+* ALF X3 Renova (R1, GB Ended)
+* DC60 (R2，GB Ended)
+* ALF F62-PE (R1，GB Open)
 
 ### About ALF Studio
 
