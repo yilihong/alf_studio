@@ -4,14 +4,12 @@
 
 This website provide support to ALF Studio's projects, such as the latest DC60 which is in the production process. 
 
- 
-
-You can use the [Firmware Guide](/doc/firmware_guide_DC60.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Firmware Guides
-#### DC60 --> [DC60 Firmware](/doc/dc60_firmware.md)
+#### DC60 --> [DC60 QMK Firmware](/doc/dc60_firmware.md)
+
+
+
 
 
 ### Keyboard Image Galleries
@@ -20,28 +18,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 * DC60 is a beautiful 60% customized keyboard designed by Master-Dash and reputable designer Cary, hence the name DC. 
 
 
-![DC60](/img/DC60-nomods.jpeg)
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
 
