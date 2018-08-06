@@ -1,4 +1,4 @@
-### 欢迎来到ALF虚线外设中文版页面 ([点击回到英文版](alfstudio.club)）
+### 欢迎来到ALF虚线外设中文版页面 ([Click to return to English version](http://alfstudio.club)）
 
 <br>
 
