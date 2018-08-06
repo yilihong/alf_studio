@@ -1,4 +1,10 @@
 ## This is the DC60 Gallery
 
-### DC60 with GMK Nautilus
-![DC60](/img/DC60-nomods.jpeg)
+### Blue DC60 with GMK Nautilus
+![BlueDC60](/img/DC60-nomods.jpeg)
+
+### Black DC60 with DSA Legacy
+![BlackDC60](/img/BlackDC60.jpeg)
+
+### Gray DC60 with XDA Canvas
+![GrayDC60](/img/GrayDC60.jpeg)
