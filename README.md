@@ -29,6 +29,8 @@ This website provide support to ALF Studio's projects, such as the latest DC60 w
 * DC60 (R2，GB Ended)
 * ALF F62-PE (R1，GB Open)
 
+<br>
+
 ### About ALF Studio
 
 ALF Studio is a premium customized keyboard designer and manufacturer based in China. Master-Dash, the lead designer and head of the studio, has garnered international reputation with products such as ALF X1, X2, X3 Renova, and the latest DC60.
