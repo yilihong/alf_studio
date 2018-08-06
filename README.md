@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to ALF Studio's Website! 
+
+虚线外设欢迎您！中文用户请浏览 [中文版](https://guides.github.com/features/mastering-markdown/).
+
+This website provide support to ALF Studio's projects, such as the latest DC60 which is in the production process.
+
+ 
 
 You can use the [editor on GitHub](https://github.com/yilihong/alf_studio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -32,6 +38,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yilihong/alf_studio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### About ALF Studio
+
+ALF Studio is a premium customized keyboard designer and manufacturer based in China. Master-Dash, the lead designer and head of the studio, has garnered international reputation with products such as ALF X1, X2, X3 Renova, and the latest DC60.
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
