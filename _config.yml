@@ -1,5 +1,5 @@
 title: ALF Studio Website
 description: ALF Studio (虚线外设)
-show_downloads: true
+show_downloads: 
 google_analytics:
 theme: jekyll-theme-modernist
