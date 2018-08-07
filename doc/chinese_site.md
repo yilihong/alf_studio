@@ -6,16 +6,16 @@ Welcome to ALF Studio's website！English users please use [English Version](htt
 
 ### 固件索引
 
-#### DC60 --> [DC60 QMK 固件](/doc/dc60中文固件手册.md)
+#### [DC60 QMK 固件](/doc/dc60中文固件手册.md)
 
 <br>
 
 ### 大师作品展示
 
-#### DC60 --> [DC60 作品展示](/doc/dc60_gallery.html)
+#### [DC60 作品展示](/doc/dc60_gallery.html)
 * DC60 是一款60%的设计经典美观的客制化机械键盘套件，设计师为虚线和Cary。
 
-#### ALF X1 --> [X1 作品展示](/doc/x1_gallery.html)
+#### [X1 作品展示](/doc/x1_gallery.html)
 * X1 is a beautiful TKL-sized customized keyboard designed by Master-Dash. 
 <br>
 
