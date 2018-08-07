@@ -7,18 +7,17 @@ This website provide support to ALF Studio's projects, such as the latest DC60 w
 <br>
 
 ### Firmware Guides
-#### DC60 --> [DC60 QMK Firmware](/doc/dc60_firmware.md)
+#### [DC60 QMK Firmware](/doc/dc60_firmware.md)
 
 <br>
 
 
-
 ### Keyboard Image Galleries
 
-#### DC60 --> [DC60 Gallery](/doc/dc60_gallery.md)
+#### [DC60 Gallery](/doc/dc60_gallery.md)
 * DC60 is a beautiful 60% customized keyboard designed by Master-Dash and reputable designer Cary, hence the name DC. 
 
-#### ALF X1 --> [X1 Gallery](/doc/x1_gallery.md)
+#### [ALF X1 Gallery](/doc/x1_gallery.md)
 * X1 is a beautiful TKL-sized customized keyboard designed by Master-Dash. 
 
 <br>
